@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(to right, #fceabb,#f8b500);
+}
+
+header {
+    padding: 5px;
+}
+
+.logo{
+    width: 600px;
+    height: 200px;
+}
+
+nav{
+   margin: 20px 0px;
+   padding: 20px 0px;
+   text-align: center;
+   background-image: linear-gradient(to right, #000428,#004e92);
+}
+
+nav a {
+    text-decoration: none;
+    padding-right: 60px; 
+    color: white;
+}
+
+.main_img{
+    width: 100%;
+    height: 30%;
+}
+
+h1 {
+    font-size: 36px;
+    color: blue;
+    font-weight: normal;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+
+footer {
+    background-image: linear-gradient(to right, #667db6,#0082c8,#0082c8,#667db6);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+footer p {;
+    padding: 5px;
+ }
+
+footer a {
+    background-image: linear-gradient(to right, #000046,#1cb5e0);
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+
+.contacts {
+    background-: linear-gradient(to right, #007991,#78ffd6);
+    color: blue;
+    font-size: 16px;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
